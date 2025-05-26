@@ -32,3 +32,19 @@ h2{
     text-align: center;
     text-align-last: center;
 }
+
+@media(max-width:639px){
+    h3{
+    width: 300px;
+    margin: 10px;
+        text-align: center;
+    text-align-last: center;
+}
+h2{
+    width: 300px;
+    font-size: 17px;
+    margin: 10px;
+    text-align: center;
+    text-align-last: center;
+}
+}
